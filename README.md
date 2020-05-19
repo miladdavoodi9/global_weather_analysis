@@ -3,7 +3,7 @@
 Challenge:
   - Use citipy to randomly generate coordinates
   - Match coordinates to unique cities
-  - Perform weather check on each city and analyze weather differences
+  - Use OpenWeatherMap API to perform weather check on each city and analyze weather differences
   
  Objective:
   - Find correlation between weather specifics to geographic locations
