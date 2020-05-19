@@ -15,3 +15,9 @@ Challenge:
        - Southern Hemisphere - Cloudiness (%) vs. Latitude
        - Northern Hemisphere - Wind Speed (mph) vs. Latitude
        - Southern Hemisphere - Wind Speed (mph) vs. Latitude
+       
+   - Utilize weather API data/findings to narrow down ideal weather conditions for a vacation location
+       - Temperature 70 >< 80
+       - Wind speed less than 10 mph
+       - Minimal cloudiness
+       - Used Google Places API to find lodging locations within filtered cities
